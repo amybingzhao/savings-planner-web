@@ -1,0 +1,26 @@
+.home-greeting {
+  font-family: 'Shadows Into Light', cursive;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.home-info-box-title {
+  text-align: center;
+}
+
+.home-info-box-value {
+  border-style: solid;
+  border-width: 2px;
+  text-align: center;
+  line-height: 100px;
+  height: 100px;
+}
+
+.home-info-box {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.btn-group.pull-right{
+  float: right;
+}
