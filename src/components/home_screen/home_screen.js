@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Greeting from '../greeting';
 import HomeInfo from './home_info';
+import Timeline from './timeline';
 
 export default class HomeScreen extends Component {
   constructor(props) {
@@ -14,6 +15,7 @@ export default class HomeScreen extends Component {
           text="Hey there!"
         />
         <HomeInfo/>
+        <Timeline/>
       </div>
     )
   }

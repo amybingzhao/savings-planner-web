@@ -24,3 +24,7 @@
 .btn-group.pull-right{
   float: right;
 }
+
+.home-screen-timeline-wrapper .events-wrapper {
+  position: inherit !important;
+}
